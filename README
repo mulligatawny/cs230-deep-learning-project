@@ -1,0 +1,7 @@
+Manifest:
+
+burgers: burgers equation solver
+2d-advection: advection equation solver 
+model: sindy-autoencoders model
+
+Original code from https://github.com/kpchamp/SindyAutoencoders
